@@ -8,7 +8,7 @@
 **Affiliation:** Independent researcher | Founder, Solve & Optimize | Chaville, France  
 **Concept origin:** Mid-2025  
 **Formalization:** March 18, 2026  
-**Status:** Pre-print — published on Zenodo · DOI: [10.5281/zenodo.15101103](https://doi.org/10.5281/zenodo.19101103)
+**Status:** Pre-print — published on Zenodo · DOI: [10.5281/zenodo.19101103](https://doi.org/10.5281/zenodo.19101103)
 
 ---
 
