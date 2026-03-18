@@ -8,7 +8,7 @@
 **Affiliation:** Independent researcher | Founder, Solve & Optimize | Chaville, France  
 **Concept origin:** Mid-2025  
 **Formalization:** March 18, 2026  
-**Status:** Pre-print (arXiv submission pending)
+**Status:** Pre-print — published on Zenodo · DOI: [10.5281/zenodo.15101103](https://doi.org/10.5281/zenodo.15101103)
 
 ---
 
@@ -159,14 +159,14 @@ If you use this framework, the concept, or the code in your research, please cit
   month        = {March},
   note         = {Independent research. Concept origin: 2025.
                   Formalization: March 18, 2026.
-                  Pre-print available at: [arXiv link pending]},
+                  Pre-print: https://doi.org/10.5281/zenodo.15101103},
   howpublished = {\url{https://github.com/Michael-F-92/felvia-matrix}}
 }
 ```
 
 **Plain text citation:**
 
-> Michael FELVIA. _The Felvia Matrix V2: A Universal Matricial Interpolation Framework for LLM to World Model Completion via Adaptive Grounding._ Independent research, March 2026. GitHub: https://github.com/Michael-F-92/felvia-matrix
+> Michael FELVIA. _The Felvia Matrix V2: A Universal Matricial Interpolation Framework for LLM to World Model Completion via Adaptive Grounding._ Independent research, March 2026. DOI: https://doi.org/10.5281/zenodo.15101103 \_ GitHub: https://github.com/Michael-F-92/felvia-matrix
 
 ---
 
